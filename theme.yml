@@ -1,0 +1,34 @@
+name: 'Leap Bootstrap Theme'
+shortName: Leap
+theme_version: 1.0.0
+bootstrap_version: 4.3.1
+domain: leap
+scripts:
+    external:
+        - aos
+        - flickity
+        - jquery
+        - jquery-countdown
+        - ion-rangeslider
+        - isotope-layout
+        - jarallax
+        - plyr
+        - prismjs
+        - scrollmonitor
+        - smartwizard
+        - smooth-scroll
+        - twitter-fetcher
+        - typed.js
+    globals:
+        aos: AOS
+        countup.js: CountUp
+        flickity: Flickity
+        jarallax: jarallax
+        jquery: jQuery
+        isotope-layout: Isotope
+        plyr: Plyr
+        prismjs: Prism
+        scrollmonitor: scrollMonitor
+        smooth-scroll: SmoothScroll
+        twitter-fetcher: twitterFetcher
+        typed.js: Typed
